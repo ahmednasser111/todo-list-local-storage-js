@@ -1,2 +1,9 @@
-# todo-list-local-storage-js
-TaskTrackerJS is a lightweight To-Do list app built with JavaScript, using local storage for data persistence. Manage tasks easily with add and remove functionality, keeping you organized and productive.
+# todo list local storage JS
+
+TaskTrackerJS is a lightweight To-Do list application built with JavaScript, utilizing local storage for data persistence. 
+
+## Features
+
+- Add tasks: Easily add tasks to your to-do list.
+- Remove tasks: Remove tasks that are completed or no longer needed.
+- Data persistence: Tasks are stored locally, so they persist between browser sessions.
